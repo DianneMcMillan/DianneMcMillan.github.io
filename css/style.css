@@ -3,7 +3,7 @@
   width: 200px;
   border-radius: 100px;
 }
-.header, footer {
+header, footer {
   background :blue;
   color: white;
   text-align: center;
@@ -17,10 +17,17 @@
   float:left;
   padding: 5px;
 }
-.section {
+section {
   width:330px;
   float: left;
   padding:15px;
+}
+button {
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  background: pink;
+  color:purple;
 }
 .footer {
   clear:both;
