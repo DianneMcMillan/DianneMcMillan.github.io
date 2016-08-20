@@ -37,7 +37,7 @@ button {
   color:purple;
   background:red;
 }
-  button:hover, #button-two {
+  button:hover, #button-two:hover {
     background:yellow;
   }
 footer {
