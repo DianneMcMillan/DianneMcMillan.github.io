@@ -9,7 +9,7 @@ header, footer {
   text-align: center;
   padding: 10px;
 }
-.nav {
+nav {
   line-height:50px;
   background: #cccccc;
   height: 600px;
@@ -29,14 +29,14 @@ button {
   background: pink;
   color:purple;
 }
-.footer {
+footer {
   clear:both;
 }
-.a {
+a {
   color: green;
   text-decoration:none;
 }
-.a:hover {
+a:hover {
   color:yellow;
   font-size: 30px;
 }
