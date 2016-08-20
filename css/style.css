@@ -37,6 +37,9 @@ button {
   color:purple;
   background:red;
 }
+  botton:hover {
+    background:yellow;
+  }
 footer {
   clear:both;
 }
