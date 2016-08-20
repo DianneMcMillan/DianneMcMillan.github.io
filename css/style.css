@@ -2,9 +2,8 @@
   height: 200px;
   width: 200px;
   border-radius: 100px;
-  float: flex;
 }
-.header {
+.header,footer {
   background :blue;
   color: white;
   text-align: center;
@@ -24,18 +23,15 @@
   padding:15px;
 }
 .footer {
-  background:blue;
-  color: white;
   clear:both;
-  text-align:center;
-  padding:5px;
 }
 .a {
-  color:green;
+  color: green;
   text-decoration:none;
 }
 .a:hover {
   color:yellow;
+  font-size: 30px;
 }
 #pink{
   color:pink;
