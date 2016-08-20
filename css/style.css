@@ -3,7 +3,7 @@
   width: 200px;
   border-radius: 100px;
 }
-.header,footer {
+.header, footer {
   background :blue;
   color: white;
   text-align: center;
