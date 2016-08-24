@@ -8,4 +8,3 @@ $("header").click(function(){
   $("header").css("background-color", "red");
 });
 
-});
