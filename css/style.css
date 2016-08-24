@@ -9,6 +9,9 @@ header, footer {
   text-align: center;
   padding: 10px;
 }
+h1 {
+  display:none;
+}
 nav {
   line-height:50px;
   background: #cccccc;
@@ -54,4 +57,8 @@ a:hover {
 #pink{
   color:pink;
 }
-
+img {
+  height: 200px;
+  width:200px;
+  display: none;
+}
