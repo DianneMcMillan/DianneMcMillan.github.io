@@ -8,6 +8,6 @@ $("header").click(function(){
   $('header').css("background-color", "red");
 });
 $("#fancy-text").click(function(){
-  $("fancy-text").css({"font-style":"italic","color":"purple", "font-size" "30px"});
+  $("#fancy-text").css({"font-style":"italic","color":"purple", "font-size" "30px"});
 }):
 });
