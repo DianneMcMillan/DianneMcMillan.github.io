@@ -20,6 +20,10 @@ nav {
   float:left;
   padding: 5px;
 }
+fancy-text {
+line-height:20px
+color:red
+}
 section {
   width:330px;
   float: left;
