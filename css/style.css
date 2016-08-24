@@ -4,13 +4,13 @@
   border-radius: 100px;
 }
 header, footer {
-  background :blue;
+  background: blue;
   color: white;
   text-align: center;
   padding: 10px;
 }
 h1 {
-  display:none;
+  position: absolute;
 }
 nav {
   line-height:50px;
@@ -69,3 +69,4 @@ img {
   width:200px;
   display: none;
 }
+
