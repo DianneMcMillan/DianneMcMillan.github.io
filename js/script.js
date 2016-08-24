@@ -7,7 +7,5 @@ $("p").fadeIn(2000);
 $("header").click(function(){
   $("header").css("background-color", "red");
 });
-$("#fancy-text").click(function(){
- $("#fancy-text").css("font-type":"italic") {
-});
+
 });
