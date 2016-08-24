@@ -25,6 +25,9 @@ section {
   float: left;
   padding:15px;
 }
+p {
+  display:none;
+}
 button {
   height: 30px;
   width: 200px;
