@@ -15,6 +15,11 @@ html {
     text-align: center;
     background: url('https://scontent-dft4-2.xx.fbcdn.net/t31.0-8/12604803_10208467690519341_8791665685207771598_o.jpg');
 }
+.h1{
+    color: white;
+    hover: blue;
+}
+
 #modal-pic{
     height:100px;
     width:100px;
