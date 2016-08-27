@@ -16,9 +16,9 @@ html {
     background: url('');
 }
 #modal-pic{
-    height:100px
-    width:100px
-    border-rasios:10;
+    height:100px;
+    width:100px;
+    border-radius:100px;
 }
 .about-section{
     height: 100%;
