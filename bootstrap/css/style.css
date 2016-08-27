@@ -46,7 +46,7 @@ html {
 }
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img,
-  iframe {
+  .carousel-inner > .item > iframe {
       width: auto;
       height: 400px;
       margin: auto;
