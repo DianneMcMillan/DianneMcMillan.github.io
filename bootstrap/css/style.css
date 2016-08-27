@@ -18,8 +18,10 @@ html {
 
 h1 {
     color: white;
-    colon: hover
     
+}
+h1:hover {
+    color:blue;
 }
 
 #modal-pic {
