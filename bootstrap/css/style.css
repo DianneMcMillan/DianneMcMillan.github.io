@@ -31,12 +31,6 @@ html {
     width: 200px;
     border-radius: 50px;
 }
-.contact-section{
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #fff;
-}
 
 .services-section{
     height: 100%;
@@ -52,7 +46,18 @@ html {
       margin: auto;
       
   }
-  
+.contact-section{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+#contact-pic{
+    height:200px ;
+    width: 200px;
+    border-radius: 50px;
+
+}
 .navbar {
     background-color: #ccc;
 }
