@@ -9,22 +9,23 @@ html {
     height: 100%;
 }
 
-.intro-section{
+.intro-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: url('https://scontent-dft4-2.xx.fbcdn.net/t31.0-8/12604803_10208467690519341_8791665685207771598_o.jpg');
 }
-.h1{
+
+.h1 {
     color: white;
 }
 
-#modal-pic{
+#modal-pic {
     height:100px;
     width:100px;
     border-radius:100px;
 }
-.about-section{
+.about-section {
     height: 100%;
     padding-top: 150px;
     text-align: left;
@@ -50,13 +51,13 @@ html {
       margin: auto;
       
   }
-.contact-section{
+.contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
-#contact-pic{
+#contact-pic {
     height:200px ;
     width: 200px;
     border-radius: 50px;
