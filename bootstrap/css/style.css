@@ -15,7 +15,11 @@ html {
     text-align: center;
     background: url('');
 }
-
+} .modal-pic{
+    height:100px
+    width:100px
+    border-rasios:10;
+}
 .about-section{
     height: 100%;
     padding-top: 150px;
